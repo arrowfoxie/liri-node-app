@@ -22,11 +22,9 @@ Reads the text in the random.txt file.
 
 Displays current weather for the entered city.
 
-# Usage
+## Usage
     Terminal / Bash
   - node liri.js my-tweets
   - node liri.js spotify-this-song
   - node liri.js movie-this
   - node liri.js do-what-it-says
-
-# See It Live
